@@ -1,72 +1,4 @@
 
-GoUrl.io Cryptocoin Payment Gateway API
------------------------------------------
-
-Version 2.1.4
-
-**Accept Bitcoin, Bitcoin Cash, Litecoin, Dash, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, UniversalCurrency, MonetaryUnit Payments Online on your website**
-
-# ![Payment-Gateway](https://gourl.io/images/gateway.jpg)
-
-
-Our Payment Gateway with Instant Checkout allows you to easily organise your website -
-
-* 100% Free Open Source on Github.com
-* No Monthly Fee, Transaction Fee from 0%
-* No ID Required, No Bank Account Needed
-* White Label Solution - Bitcoin/Altcoin Payment Box with Your Own [Company Logo](https://gourl.io/lib/examples/example_customize_box.php)
-* Get payments straight to your bitcoin/altcoin wallets and convert to [USD/EUR/etc](https://gourl.io/#usd) later
-* [Custom Payment Box](https://gourl.io/lib/examples/example_customize_box.php) - json format; customise your bitcoin payment box with your own text / logo
-* [White Label Product](https://gourl.io/lib/examples/example_customize_box.php?logo=custom&method=curl&boxtype=1) - Bitcoin Payments with your own logo and all payment requests through your server
-* [Pay-Per-Product](https://gourl.io/lib/examples/pay-per-product-multi.php) - sell your products for bitcoin, bitcoin cash, litecoin, etc. online on your website. It is easy!
-* [Pay-Per-Download](https://gourl.io/lib/examples/pay-per-download-multi.php) -  make money on file downloads/other digital content from your website online
-* [Pay-Per-Post](https://gourl.io/lib/examples/pay-per-post-multi.php) - get separate payments for each post/article published on your website
-* [Pay-Per-Registration](https://gourl.io/lib/examples/pay-per-registration-multi.php) - earn money on user registration on your website; stop spam
-* [Pay-Per-Page-Access](https://gourl.io/lib/examples/pay-per-page-multi.php) - sell paid access to selected web page(es) to unregistered visitors online
-* [Pay-Per-Membership](https://gourl.io/lib/examples/pay-per-membership-multi.php) - sell monthly/daily membership of your website to members online
-* Set your own Prices in USD. It will automatically convert usd to cryptocoins using Live [exchange rates](https://poloniex.com/)
-* Direct Integration on your website (iframe), no external payment pages opens (as other payment gateways offer)
-* User will see successful payment result typically within 5 seconds after the payment has been sent
-* Your website users and visitors will see GoUrl payment box on your website in their own native languages
-* Our Payment Gateway supports the following interface languages: [English](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=en#gourlcryptolang), [Spanish](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=es#gourlcryptolang), [French](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=fr#gourlcryptolang), [German](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=de#gourlcryptolang), [Dutch](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=nl#gourlcryptolang), [Italian](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=it#gourlcryptolang), [Russian](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=ru#gourlcryptolang), [Polish](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=pl#gourlcryptolang), [Portuguese](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=pt#gourlcryptolang), [Persian](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=fa#gourlcryptolang), [Korean](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=ko#gourlcryptolang), [Japanese](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=ja#gourlcryptolang), [Indonesian](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=id#gourlcryptolang), [Turkish](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=tr#gourlcryptolang), [Arabic](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=ar#gourlcryptolang), [Simplified Chinese](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=cn#gourlcryptolang), [Traditional Chinese](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=zh#gourlcryptolang), [Hindi](https://gourl.io/bitcoin-payment-gateway-api.html?gourlcryptolang=hi#gourlcryptolang). We can also add any new language to payment system on [request](https://gourl.io/api-php.html#lan)
-* [Affiliate Program for Web Developers](https://gourl.io/affiliates.html) - Earn 0.50% Lifetime from each cryptocoin payment made by users through GoUrl Payment Gateway
-* Global, Anonymous, Secure, Zero Risk, No Chargebacks, No visitor registration is needed.
-* GoUrl Bitcoin Official [Wordpress Plugin](https://gourl.io/bitcoin-wordpress-plugin.html) - easy to use on your website
-* [Free Support](https://gourl.io/view/contact/Contact_Us.html) in the integration of our GoUrl Crypto Payment Gateway in your scripts/plugins/website
-
-
-Information
-------------------------------------
-
-Copyright &copy; 2014-2018 [Delta Consultants](https://gourl.io)
-
-Website: [https://gourl.io](https://gourl.io)
-
-API PHP Instruction: [https://gourl.io/api-php.html](https://gourl.io/api-php.html)
-
-API Python,Java,Node.js,etc: [https://gourl.io/api-php.html](https://gourl.io/api.html)
-
-Wordpress Plugin: [https://gourl.io/bitcoin_wordpress_plugin.html](https://gourl.io/bitcoin-wordpress-plugin.html)
-
-Demo: [https://gourl.io/bitcoin-payment-gateway-api.html](https://gourl.io/bitcoin-payment-gateway-api.html)
-
-
-
-
-Introduction
-----------------
-
-PHP Cryptocoin Payment Gateway is a simple PHP/MySQL script / Wordpress Plugin which you can easily integrate into your own website in minutes.
-
-Start accepting payments on your website, including all major cryptocoins, and start selling online in minutes. No application process.
-
-The big benefit of Cryptocoin Payment Box is that it fully integrated on your website, no external payment pages opens (as other payment gateways offer). 
-
-Your website will receive full user payment information immediately after cryptocoin payment is made and you can process it in automatic mode.
-
-
-# ![Payment-Box](https://gourl.io/images/white_label_box.png)
-
 
 
 How It Works
@@ -114,7 +46,6 @@ Read more - [https://gourl.io/api-php.html](https://gourl.io/api-php.html)
 Installation - Wordpress Plugin
 ----------------------------
 
-Go to [https://gourl.io/bitcoin-wordpress-plugin.html](https://gourl.io/bitcoin-wordpress-plugin.html)
 
 
 
